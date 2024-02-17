@@ -1,4 +1,4 @@
-modelLoaded(){
+modelLoaded();{
     console.log('Posenet is Initialized!')
 }
 
